@@ -1,0 +1,10 @@
+/*/obj
+/*/bin
+*.suo
+*.user
+Thumbs.db
+/*/u
+/*/b
+/TestResults
+/packages/*
+!/packages/repositories.config
