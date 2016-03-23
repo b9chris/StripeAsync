@@ -13,7 +13,6 @@ namespace Brass9.Clients.Stripe.Core.Serialization
 {
 	/// <summary>
 	/// Serializes objects to x-www-form-urlencoded style.
-	/// Obsolete. Used only in old HttpRequest based code. We've moved onto HttpClient which does part of this for us.
 	/// </summary>
 	public class StripeFormSerializer
 	{
